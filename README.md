@@ -60,6 +60,11 @@
 
 #
 
+<!-- Gatinho Fofo -->
+<p align="center">Thanks for taking a moment to check out my profile, I really appreciate it! :)
+
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stefannyvitoriaah/My-Secret-Garden/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/stefannyvitoriaah/My-Secret-Garden/blob/output/github-contribution-grid-snake-dark.svg">
